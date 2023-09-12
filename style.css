@@ -5,7 +5,9 @@
 }
 .toolbar{
    display: flex;
-    background-color: beige;  
+    background-color: beige;
+    justify-content: space-between;  
+    gap: 10px;
 }
 body{
     background-color:aliceblue;
@@ -14,9 +16,7 @@ a{
     padding-right: 20px;
  
 }
-img{
-    padding-right: 750px;
-}
+
 p{
     padding-right: 20px;
 }
