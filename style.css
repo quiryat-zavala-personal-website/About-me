@@ -24,3 +24,6 @@ p{
 .about{
     background-color: aquamarine;
 }
+embed{
+    display: inline-block;
+}
