@@ -1,0 +1,37 @@
+*{
+    padding: 0px;
+    margin: 0px;
+}
+p{
+    
+    border: 1px solid black;
+    color: #004346;
+    width:fit-content;
+    background-color:#75DDDD;
+    font-size: 30px;
+    width: fit-content;
+    block-size: fit-content;
+    
+   
+   
+}
+h2{
+    padding-top: 40px;
+}
+
+.ptag{
+   
+    padding-right: 900px;
+    display: flex;
+
+   
+    
+
+}
+body{
+    padding-right: 30px;
+    background-color: #63768D;
+}
+img{
+    padding-right:50px;
+}
