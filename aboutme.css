@@ -26,13 +26,16 @@ body {
 }
 img {
   padding-right: 50px;
-  object-fit:cover;
+  object-fit:contain;
   
 }
 .imageP {
-  height: 500px;
+  padding: 20px;
 }
 .ptag > img {
   height: 500px;
+  width: 400px;
+  object-position: top center;
   
 }
+
