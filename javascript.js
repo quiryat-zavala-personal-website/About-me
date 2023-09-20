@@ -3,3 +3,4 @@ console.log(message);
 function displayAlert(){
     alert (`${message}`)
 }
+displayAlert()

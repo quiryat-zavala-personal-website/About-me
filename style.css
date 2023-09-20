@@ -16,34 +16,45 @@ a {
 }
 
 p {
-  padding-right: 20px;
-}
+  padding-left: 20px;
+  color: pink;
+  z-index: 1;
 
+}
 
 embed {
   display: inline-block;
 }
 img {
-    
   z-index: 1;
+  
 }
 h2 {
-  
   position: relative;
   z-index: -1;
 }
-.container{
-    position: relative;
-
+.container {
+  position: relative;
 }
-#About{
-    position: absolute;
-    background-color: aquamarine;
-    top: 50%;
-    left: 50%;
-    transform: translate(-50%,-50%);
+#About {
+  position: absolute;
+  
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
 }
 .RESUMEBACKGROUND {
-    background-color:darkgray;
-  }
+  background-color: darkgray;
+}
+#projects  {
+  display: inline-flex;
+ justify-content: space-around;
 
+}
+h1{
+    padding-top: 30px;
+    padding-bottom: 30px;
+}
+.coolbackground{
+    position: absolute;
+}
